@@ -1,6 +1,8 @@
 # StayEase
 StayEase - Online Hotel Booking App
 
+Welcome to StayEase – Find it. Book it. Enjoy the Stay!!   
+
 StayEase is a modern hotel booking and reservation app designed for travelers who value 
 comfort, convenience, and choice. Whether you’re planning a business trip, a family vacation, 
 or a spontaneous getaway, StayEase makes it effortless to find the perfect stay, compare prices, 
